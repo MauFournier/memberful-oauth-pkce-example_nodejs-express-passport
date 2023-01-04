@@ -2,8 +2,7 @@ A simple example of Memberful's PKCE OAuth flow written in NodeJS and Express, u
 
 Note: If you're building a Server-Side Application, you should follow the Server-Side Example instead.
 
-For more information, check out our documentation:
-https://memberful.com/help/custom-development-and-api/sign-in-for-apps-via-oauth/
+For more information, check out [our documentation.](https://memberful.com/help/custom-development-and-api/sign-in-for-apps-via-oauth/)
 
 ## Installation
 
